@@ -1,7 +1,7 @@
 # centrum artwork
 
-Centrum Next artwork
+![Centrum Next artwork](next_centrum.png)
 
 # License
 
-https://openclipart.org/detail/309890/labyrinth public domain
+[CC BY-SA 4.0 or later](by-sa.markdown)
